@@ -1,0 +1,48 @@
+<resources>
+    <string name="app_name">Proyek Akhir Android Pemula Bangkit</string>
+    <string name="food_name">Nama Makanan</string>
+    <string name="description">Deskripsi</string>
+    <string name="about">About</string>
+    <string name="my_name">Muhammad Adithya Warman</string>
+    <string name="my_email">a315bsy2346@bangkit.academy</string>
+
+    <string-array name="data_makanan">
+        <item>Tekwan</item>
+        <item>Laksan</item>
+        <item>Celimpungan</item>
+        <item>Burgo</item>
+        <item>Lakso</item>
+        <item>Martabak</item>
+        <item>Mi Celor</item>
+        <item>Pempek</item>
+        <item>Pindang Ikan</item>
+        <item>Gula Puan</item>
+    </string-array>
+
+    <string-array name="data_description">
+        <item>Tekwan adalah</item>
+        <item>Laksan adalah</item>
+        <item>Celimpungan adalah</item>
+        <item>Burgo merupakan</item>
+        <item>Lakso merupakan</item>
+        <item>Martabak adalah</item>
+        <item>Mi Celor merupakan</item>
+        <item>Pempek adalah</item>
+        <item>Pindang Ikan merupakan</item>
+        <item>Gula Puan merupakan</item>
+    </string-array>
+
+    <integer-array name="data_photo">
+        <item>@drawable/tekwan</item>
+        <item>@drawable/laksan</item>
+        <item>@drawable/celimpungan</item>
+        <item>@drawable/burgo</item>
+        <item>@drawable/lakso</item>
+        <item>@drawable/martabak</item>
+        <item>@drawable/micelor</item>
+        <item>@drawable/pempek</item>
+        <item>@drawable/pindangikan</item>
+        <item>@drawable/gulapuan</item>
+    </integer-array>
+
+</resources>
